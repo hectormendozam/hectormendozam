@@ -1,6 +1,6 @@
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/hectormendozam/hectormendozam/blob/main/icegif-96.gif"
+  <img  src="https://github.com/hectormendozam/hectormendozam/blob/main/pixel-jeff-matrix-s.gif"
        alt="snake" /></a>
 </div>
 
