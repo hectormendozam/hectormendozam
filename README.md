@@ -30,8 +30,6 @@
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
 - 💬 Ask me about **C++, Java, Software Engineering, SQL**
-
-- 📝 I regularly post videos on [Youtube](https://www.youtube.com/channel/UCt3Zwsst7qlYY7dy_D_0rqw).
   
 - 📫 Feel free to reach me out **mendozamerinohector@gmail.com**
 
