@@ -180,18 +180,6 @@ Engineering Degree in Information Technology
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hectormendozam&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hectormendozam&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 I'm always interested in learning, collaborating on software projects, and exploring opportunities in Software Engineering.
